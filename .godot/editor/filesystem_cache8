@@ -1,9 +1,12 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1703012722
+::res://::1703013836
 bg_music.mp3::AudioStreamMP3::7740025162993226110::1702496337::1703012723::1::::<><>::
 enemy.png::CompressedTexture2D::5591272491634969294::1702495914::1703012723::1::::<><>::
 enemy_hit.mp3::AudioStreamMP3::1957515573300041468::1702496418::1703012723::1::::<><>::
 icon.svg::CompressedTexture2D::7195057498508872236::1703012632::1703012723::1::::<><>::
+Player.gd::GDScript::-1::1703013682::0::1::::<>Node<>::
 player.png::CompressedTexture2D::1513000979231670107::1702495992::1703012723::1::::<><>::
+player.tscn::PackedScene::5290312888673827107::1703013741::0::1::::<><>::res://player.gd<>uid://vs551jdj25r0::::res://player.png
 README.md::TextFile::-1::1703012598::0::1::::<><>::
 wallpaperCabin.jpg::CompressedTexture2D::3956181572017908856::1702488696::1703012723::1::::<><>::
+world.tscn::PackedScene::238502550785571240::1703013721::0::1::::<><>::uid://chmwxeqs734pr::::res://player.tscn
